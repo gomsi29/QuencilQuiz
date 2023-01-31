@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052945428698",
+    "project_id": "quizapp-21a07",
+    "storage_bucket": "quizapp-21a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052945428698:android:66999c638d1abb7faeb5e3",
+        "android_client_info": {
+          "package_name": "com.ankur.quencilquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052945428698-d9utata6ngf530jb528ockoilfu2i58k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LuKa2ToMbtSZKfrCklHt-_3XuAs41hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052945428698-d9utata6ngf530jb528ockoilfu2i58k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
